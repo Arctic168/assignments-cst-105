@@ -1,4 +1,4 @@
-package com.company;
+package dev.birkett.shared.Exercise7;
 
 // Only import what you need, don't use the star `*` unless you want everything,
 // usually when you just import all of your own submodule.
