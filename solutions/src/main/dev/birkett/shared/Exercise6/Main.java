@@ -1,4 +1,4 @@
-package dev.birkett.shared.Exersize6;
+package dev.birkett.shared.Exercise6;
 
 import java.io.*;
 import java.nio.file.Files;
